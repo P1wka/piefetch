@@ -1,2 +1,3 @@
 # piefetch
-Basic fetch app for Windows
+
+piefetch is a basic fetch app for Windows users.
