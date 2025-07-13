@@ -1,0 +1,9 @@
+C:\Users\grove\Desktop\fetch\fetch\bin\Debug\piefetch.exe.config
+C:\Users\grove\Desktop\fetch\fetch\bin\Debug\piefetch.exe
+C:\Users\grove\Desktop\fetch\fetch\bin\Debug\piefetch.pdb
+C:\Users\grove\Desktop\fetch\fetch\bin\Debug\Colorful.Console.dll
+C:\Users\grove\Desktop\fetch\fetch\obj\Debug\piefetch.csproj.AssemblyReference.cache
+C:\Users\grove\Desktop\fetch\fetch\obj\Debug\piefetch.csproj.CoreCompileInputs.cache
+C:\Users\grove\Desktop\fetch\fetch\obj\Debug\piefetch.csproj.Up2Date
+C:\Users\grove\Desktop\fetch\fetch\obj\Debug\piefetch.exe
+C:\Users\grove\Desktop\fetch\fetch\obj\Debug\piefetch.pdb
